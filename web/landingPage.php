@@ -11,7 +11,7 @@
         <header>
             <?php include('templates/navbar.html');?>
         </header>
-        
+        <?php include('templates/main.html');?>
         <script src="js/scripts.js" async defer></script>
     </body>
 </html>
