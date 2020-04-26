@@ -9,7 +9,7 @@
     </head>
     <body>
         <header>
-            <?php include 'navbar.php';?>
+            <?php include('navbar.html');?>
         </header>
         <h1>Nathan's Landing Page</h1>
         
