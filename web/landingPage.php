@@ -11,7 +11,6 @@
         <header>
             <?php include('templates/navbar.html');?>
         </header>
-        <h1>Nathan's Landing Page</h1>
         
         <script src="js/scripts.js" async defer></script>
     </body>
