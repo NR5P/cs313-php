@@ -8,6 +8,9 @@
         <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
+        <header>
+            <?php include 'navbar.php';?>
+        </header>
         <h1>Nathan's Landing Page</h1>
         
         <script src="js/scripts.js" async defer></script>
