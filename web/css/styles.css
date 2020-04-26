@@ -55,11 +55,9 @@ body {
 }
 
 #main-paragraph {
-}
-
-#main-area {
     width:70%;
 }
+
 
 @media (max-width:600px) {
 }
